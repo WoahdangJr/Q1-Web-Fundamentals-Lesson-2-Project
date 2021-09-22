@@ -1,3 +1,10 @@
+#main-title{
+  text-align: center;
+}
+
+
+
+/* Horizontal Navbar */
 ul {
   list-style-type: none;
   margin: 0;
@@ -25,8 +32,4 @@ li a:hover {
 
 .active {
   background-color: #23272A;
-}
-
-body{
-  background-color: #FFFFFF;
 }
