@@ -1,0 +1,1 @@
+<div style="margin-left:18%;padding:1px 16px; height:1000px;"> Makes text come out from under navbar.
